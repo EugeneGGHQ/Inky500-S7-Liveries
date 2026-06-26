@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<USER_OVERRIDES>
+
+    <LIVERY_OVERRIDE LIVERY="74" NAME="Mr Bean" BASELIVERY="Default">
+	  <PREVIEWIMAGE PATH="eugeneBean\AMS2_Mini_Cooper_2020_Bean.dds" />
+	  <TEXTURE NAME="BODY" PATH="eugeneBean\AMS2_Mini_Cooper_2020_Bean.dds" />
+    </LIVERY_OVERRIDE>
+
+</USER_OVERRIDES>
