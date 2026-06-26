@@ -1,2 +1,14 @@
 ## So, you want to set up some Custom Liveries...
 
+1. Design (or find an existing design of) a livery you like!
+    i. There's tonnes of really good resources online showing you how you can create your own using GIMP/Photoshop etc.
+2. Upload your design image file as a .dds
+    i. Either directly share your designs with Eugene or Upload your .DDS design into a named folder in the repo under \Vehicles\Textures\Overrides\mini_cooper For example: \Vehicles\Textures\Overrides\mini_cooper\eugenebean\eugenelivery.
+3. Ensure that .\Vehicles\Textures\Overrides\mini_cooper\mini_cooper.xml is updated to include a relevant LIVERY OVERRIDE section following the below format:
+
+#   <LIVERY_OVERRIDE LIVERY="74" NAME="NULL" BASELIVERY="Default">
+#	  <PREVIEWIMAGE PATH="NULL" />
+#	  <TEXTURE NAME="BODY" PATH="NULL" />
+#    </LIVERY_OVERRIDE>
+
+    i. LIVERY number is matched to whatever LIVERY number has been allocated to you and should match the register in this repo's \README.md 
