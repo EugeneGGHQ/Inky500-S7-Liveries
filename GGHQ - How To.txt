@@ -6,9 +6,9 @@
     i. Either directly share your designs with Eugene or Upload your .DDS design into a named folder in the repo under \Vehicles\Textures\Overrides\mini_cooper For example: \Vehicles\Textures\Overrides\mini_cooper\eugenebean\eugenelivery.
 3. Ensure that .\Vehicles\Textures\Overrides\mini_cooper\mini_cooper.xml is updated to include a relevant LIVERY OVERRIDE section following the below format:
 
-#   <LIVERY_OVERRIDE LIVERY="74" NAME="Mr Bean" BASELIVERY="Default">
-#	  <PREVIEWIMAGE PATH="eugeneBean\AMS2_Mini_Cooper_2020_Bean.dds" />
-#	  <TEXTURE NAME="BODY" PATH="eugeneBean\AMS2_Mini_Cooper_2020_Bean.dds" />
+#   <LIVERY_OVERRIDE LIVERY="74" NAME="NULL" BASELIVERY="Default">
+#	  <PREVIEWIMAGE PATH="NULL" />
+#	  <TEXTURE NAME="BODY" PATH="NULL" />
 #    </LIVERY_OVERRIDE>
 
     i. LIVERY number is matched to whatever LIVERY number has been allocated to you and should match the register in this repo's \README.md 
