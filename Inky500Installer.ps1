@@ -1,27 +1,25 @@
 ﻿Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
 
-# --- CONFIG ---
+# Setting paths
 $RequiredSubDir = "Vehicles\Textures\CustomLiveries\Overrides"
 $DefaultPath = "C:\Program Files (x86)\Steam\steamapps\common\Automobilista 2"
 
-# Source folder: ALWAYS the "Vehicles" folder next to the installer script
+# Source folder - Make sure that the "Vehicles" folder is in the same place as Inky500Installer.ps1
 $ScriptRoot = Split-Path -Parent $PSCommandPath
 $SourceFolder = Join-Path $ScriptRoot "Vehicles"
 
-# --- FORM SETUP ---
-
+# WinForms Window Setup
 $form = New-Object System.Windows.Forms.Form
 $form.Text = "Automobilista 2 Livery Installer"
 $form.Size = New-Object System.Drawing.Size(600,260)
 $form.StartPosition = "CenterScreen"
 
-# --- CUSTOM ICON ---
+# Setting the custom banner icon (very important, obviously)
 $IconPath = Join-Path $ScriptRoot "gghq.ico"
 $form.Icon = New-Object System.Drawing.Icon($IconPath)
 
-# --- UI ELEMENTS ---
-
+# WinForms Content
 $label = New-Object System.Windows.Forms.Label
 $label.Text = "Select your Automobilista 2 installation directory:"
 $label.Location = New-Object System.Drawing.Point(10,20)
@@ -48,21 +46,19 @@ $browseButton.Add_Click({
     }
 })
 
-# --- PROGRESS BAR ---
-$progressBar = New-Object System.Windows.Forms.ProgressBar
-$progressBar.Location = New-Object System.Drawing.Point(10,140)
-$progressBar.Size = New-Object System.Drawing.Size(560,25)
-$progressBar.Style = "Continuous"
-$form.Controls.Add($progressBar)
-
-# --- INSTALL BUTTON ---
 $installButton = New-Object System.Windows.Forms.Button
 $installButton.Text = "Install Liveries"
 $installButton.Location = New-Object System.Drawing.Point(10,100)
 $installButton.Size = New-Object System.Drawing.Size(560,40)
 $form.Controls.Add($installButton)
 
-# --- VALIDATION + COPY LOGIC ---
+$progressBar = New-Object System.Windows.Forms.ProgressBar
+$progressBar.Location = New-Object System.Drawing.Point(10,160)
+$progressBar.Size = New-Object System.Drawing.Size(560,25)
+$progressBar.Style = "Continuous"
+$form.Controls.Add($progressBar)
+
+# Validate paths, Progress bar and Copy files behaviour
 $installButton.Add_Click({
     $gamePath = $textBox.Text
     $targetSubDir = Join-Path $gamePath $RequiredSubDir
@@ -130,5 +126,4 @@ $installButton.Add_Click({
     }
 })
 
-# --- RUN FORM ---
 [void]$form.ShowDialog()
