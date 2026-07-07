@@ -11,4 +11,15 @@
 #	  <TEXTURE NAME="BODY" PATH="NULL" />
 #    </LIVERY_OVERRIDE>
 
-    i. LIVERY number is matched to whatever LIVERY number has been allocated to you and should match the register in this repo's \README.md 
+    i. LIVERY number is matched to whatever LIVERY number has been allocated to you and should match the register in this repo's \README.md
+
+
+## How to update your custom liveries...
+
+I've bundled a pair of installers - One an .exe and One a Winforms Powershell script - Figured transparency might be preferable from a security perspective - You can see exactly what the Powershell script is doing if you open it in Notepad but they should both function largely the same way.
+
+A pop up application with a default path set for your Automobilista 2 game folder.
+
+The installers will verify you've selected the right folder by checking for the CustomLiveries subdirectory being present.
+
+Then when hitting 'install liveries', this will complete a simple recursive copy from the Repo 'Vehicles' to the aforementioned set game directory.
