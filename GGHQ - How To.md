@@ -6,7 +6,7 @@
 
 2. Upload your design image file as a .dds
 
-    Either directly share your designs with Eugene or Upload your .DDS design into a named folder in the repo under \Vehicles\Textures\Overrides\mini_cooper For example: \Vehicles\Textures\Overrides\mini_cooper\eugenebean\eugenelivery.
+    Either directly share your designs with Eugene or Upload your .DDS design into a named folder in the repo under \Vehicles\Textures\Overrides\mini_cooper For example: \Vehicles\Textures\Overrides\mini_cooper\goatini\goatini.dds
 
 3. Ensure that .\Vehicles\Textures\Overrides\mini_cooper\mini_cooper.xml is updated to include a relevant LIVERY OVERRIDE section following the below format:
 
@@ -36,8 +36,8 @@ A summary of it is:
 
 Download the full repo to your PC.
 
-Right click on **Inky500Installer.ps1** and select 'Run in Powershell'
+Right click on **Inky500Installer.ps1** and select 'Run in Powershell' (n.b in some flavours of Windows 11, you may need to select 'Show More Options' to see this option.)
 
 This should bring up an application that you can choose your Automobilista 2 folder in your SteamApps directory.
 
-Then click 'Install Liveries' to copy the contents of the Vehicles folder in the repo to your game directory.
+Then click 'Install Liveries' to copy the contents of the Vehicles folder in the repo to your game directory et voila!
