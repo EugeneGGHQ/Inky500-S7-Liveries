@@ -18,7 +18,7 @@ Current Livery Slot Reservations:
 [ ]|**51**| | [ ] | **63**|
 [ ]|**52**| | [ ] | **64**|  
 [ ]|**53**| | [ ] | **65**| 
-[ ]|**54**| | [ ] | **66**|
+[X]|**54**| BigTimeBosco| [ ] | **66**|
 [ ]|**55**| | [ ] | **67**|
 [ ]|**56**| | [ ] | **68**|
 [ ]|**57**| | [ ] | **69**|
@@ -26,6 +26,6 @@ Current Livery Slot Reservations:
 [ ]|**59**| | [ ] | **71**|
 [ ]|**60**| | [ ] | **72**|
 [ ]|**61**| | [ ] | **73**|
-[ ]|**62**| | [X] | **74**| Eugene_Goat
+[X]|**62**| InkubusJaymz | [X] | **74**| Eugene_Goat
   
 If you have any issues, DM Eugene_Goat on Discord, or submit an issue on Github.

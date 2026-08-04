@@ -106,8 +106,10 @@
         <TEXTURE NAME="BODY" PATH="BTCC\Volvo4.dds" />
 </LIVERY_OVERRIDE>
     <LIVERY_OVERRIDE LIVERY="74" NAME="goatini" BASELIVERY="Default">
-	  <PREVIEWIMAGE PATH="goatini\goatini.dds" />
+	  <PREVIEWIMAGE PATH="goatini\goatini_p.dds" />
 	  <TEXTURE NAME="BODY" PATH="goatini\goatini.dds" />
+	  <TEXTURE NAME="WHEELDIFF" PATH="goatini\goatini_wheel_diff.dds" />
+	  <TEXTURE NAME="WHEELBLURDIFF" PATH="goatini\goatini_wheel_blur_diff.dds" />
     </LIVERY_OVERRIDE>
 
 </USER_OVERRIDES>
