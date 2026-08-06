@@ -5,9 +5,9 @@ Add-Type -AssemblyName System.Drawing
 $RequiredSubDir = "Vehicles\Textures\CustomLiveries\Overrides"
 $DefaultPath = "C:\Program Files (x86)\Steam\steamapps\common\Automobilista 2"
 
-# Source folder - Make sure that the "Vehicles" folder is in the same place as Inky500Installer.ps1
+# Source folder - Make sure that the "Automobilista 2" folder is in the same place as Inky500Installer.ps1
 $ScriptRoot = Split-Path -Parent $PSCommandPath
-$SourceFolder = Join-Path $ScriptRoot "Vehicles"
+$SourceFolder = Join-Path $ScriptRoot "Automobilista 2"
 
 # WinForms Window Setup
 $form = New-Object System.Windows.Forms.Form
