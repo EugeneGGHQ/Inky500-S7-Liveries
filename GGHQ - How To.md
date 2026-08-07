@@ -36,7 +36,8 @@ A summary of it is:
 
 Download the full repo to your PC.
 
-Right click on **Inky500Installer.ps1** and select 'Run in Powershell' (n.b in some flavours of Windows 11, you may need to select 'Show More Options' to see this option.)
+Right click on **Inky500Installer.ps1** and select 'Run in Powershell' (in some flavours of Windows 11, you may need to select 'Show More Options' to see this option.)
+    n.b If the wizard doesn't open when you run in powershell, then you may need to set your system to allow the execution of powershell scripts by opening Powershell from your Start menu and running `set-executionpolicy -ExecutionPolicy Unrestricted`
 
 This should bring up an application that you can choose your Automobilista 2 folder in your SteamApps directory.
 
