@@ -2,13 +2,15 @@
 
 1. Design (or find an existing design of) a livery you like!
 
-    There's tonnes of really good resources online showing you how you can create your own using GIMP/Photoshop etc.
+    There's tonnes of really good resources online showing you how you can create your own custom design using GIMP/Photoshop etc.
 
 2. Upload your design image file as a .dds
 
-    Either directly share your designs with Eugene or Upload your .DDS design into a named folder in the repo under \Vehicles\Textures\Overrides\mini_cooper For example: \Vehicles\Textures\Overrides\mini_cooper\goatini\goatini.dds
+    Either directly share your designs with Eugene or Upload your .DDS design into a named folder in the repo under `\Vehicles\Textures\Overrides\mini_cooper` 
+    
+    For example: `\Vehicles\Textures\Overrides\mini_cooper\goatini\goatini.dds`
 
-3. Ensure that .\Vehicles\Textures\Overrides\mini_cooper\mini_cooper.xml is updated to include a relevant LIVERY OVERRIDE section following the below format:
+3. Ensure that `.\Vehicles\Textures\Overrides\mini_cooper\mini_cooper.xml` is updated to include a relevant LIVERY OVERRIDE section following the below format:
 
 ```
     <LIVERY_OVERRIDE LIVERY="74" NAME="NULL" BASELIVERY="Default">
@@ -17,7 +19,7 @@
     </LIVERY_OVERRIDE>
 ```
 
-Note -  LIVERY number is matched to whatever LIVERY number has been allocated to you and should match the register in this repo's \README.md
+Note -  LIVERY number is matched to whatever LIVERY number has been allocated to you and should match the register in this repo's `\README.md`
 
 
 ## How to update your custom liveries...
@@ -26,9 +28,9 @@ I've created a super basic Winforms Powershell script - Figured transparency mig
 
 A summary of it is:
 
-- A pop up application with a default path set for your Automobilista 2 game folder that you may need to amend.
+- A pop up application with a prompt to set a path for your Automobilista 2 game folder.
 
-- The installers will verify you've selected the right folder by checking for the Vehicles\Textures\CustomLiveries\Overrides subdirectory being present.
+- The installers will verify you've selected the right folder by checking for the `Vehicles\Textures\CustomLiveries\Overrides` subdirectory being present.
 
 - Then when hitting 'install liveries', this will complete a simple recursive copy from the Repo's 'Vehicles' folder to the aforementioned set game directory.
 
@@ -37,6 +39,8 @@ A summary of it is:
 Download the full repo to your PC.
 
 Right click on **Inky500Installer.ps1** and select 'Run in Powershell' (n.b in some flavours of Windows 11, you may need to select 'Show More Options' to see this option.)
+
+*If this errors, or you only see a momentary black screen pop up, this is because your Powershell settings don't allow unsigned scripts to run on your PC. Amend these settings at your own risk, or alternatively, manually copy the folder contents into your AMS2 directory.*
 
 This should bring up an application that you can choose your Automobilista 2 folder in your SteamApps directory.
 
