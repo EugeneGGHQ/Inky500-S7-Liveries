@@ -5,6 +5,11 @@
 #### INSTRUCTIONS ####
 ######################
 
+
+## Quick Manual Install:
+
+**You can just copy the Automobilista 2 folder into your game's Automobilista 2 folder and overwrite to install liveries. You may need to restart game if running at the time. **
+
 A centralised store for all custom liveries for the upcoming Season 7 of the Inky 500 Automobilista 2 Championship.
 
 These will be files locally stored in your Steam game installation folder, under 'Vehicles'.
