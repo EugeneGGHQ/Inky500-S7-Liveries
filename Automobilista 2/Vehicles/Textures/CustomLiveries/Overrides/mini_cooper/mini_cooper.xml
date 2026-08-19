@@ -100,10 +100,10 @@
 		<TEXTURE NAME="SPEC" PATH="BTCC\Esso_spec.dds" />
 		<TEXTURE NAME="FRESNEL" PATH="BTCC\Esso_fresnel.dds" />
 </LIVERY_OVERRIDE>
-<LIVERY_OVERRIDE LIVERY="73" NAME="Tom Walkinshaw Racing #4" BASELIVERY="SilverMetallic">
-        <PREVIEWIMAGE PATH="BTCC\Volvo4_p.dds" />
-        <TEXTURE NAME="PAINT" PATH="BTCC\Volvo4.dds" />
-        <TEXTURE NAME="BODY" PATH="BTCC\Volvo4.dds" />
+<LIVERY_OVERRIDE LIVERY="73" NAME="SmolzieRacing" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="SmolzieRacing\TescoValue21_p.dds" />
+        <TEXTURE NAME="PAINT" PATH="SmolzieRacing\TescoValue21.dds" />
+        <TEXTURE NAME="BODY" PATH="SmolzieRacing\TescoValue21.dds" />
 </LIVERY_OVERRIDE>
     <LIVERY_OVERRIDE LIVERY="74" NAME="goatini" BASELIVERY="Default">
 	  <PREVIEWIMAGE PATH="goatini\goatini_p.dds" />

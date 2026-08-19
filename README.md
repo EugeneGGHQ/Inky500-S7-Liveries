@@ -25,7 +25,7 @@ Current Livery Slot Reservations:
 [X]|**58**| CannonManDan| [X] | **70**| Graeme
 [ ]|**59**| | [ ] | **71**|
 [ ]|**60**| | [ ] | **72**|
-[ ]|**61**| | [ ] | **73**|
+[ ]|**61**| | [X] | **73**| Smolzie
 [X]|**62**| InkubusJaymz | [X] | **74**| Eugene_Goat
   
 If you have any issues, DM Eugene_Goat on Discord, or submit an issue on Github.
