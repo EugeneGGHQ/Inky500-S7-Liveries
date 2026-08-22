@@ -13,9 +13,10 @@
         <PREVIEWIMAGE PATH="BTCC\Napa1_p.dds" />
         <TEXTURE NAME="BODY" PATH="BTCC\Napa1.dds" />
 </LIVERY_OVERRIDE>
-<LIVERY_OVERRIDE LIVERY="54" NAME="Motorbase #9" BASELIVERY="Default">
-        <PREVIEWIMAGE PATH="BTCC\Napa9_p.dds" />
-        <TEXTURE NAME="BODY" PATH="BTCC\Napa9.dds" />
+<LIVERY_OVERRIDE LIVERY="54" NAME="Little Tikes" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="Bosco\tikespreview.dds" />
+        <TEXTURE NAME="BODY" PATH="Bosco\tikes.dds" />
+        <TEXTURE NAME="WHEELDIFF" PATH="Bosco\tikeswheel.dds" />
 </LIVERY_OVERRIDE>
 <LIVERY_OVERRIDE LIVERY="56" NAME="BTC Racing #66" BASELIVERY="Chrome">
         <PREVIEWIMAGE PATH="BTCC\BTC66_p.dds" />
