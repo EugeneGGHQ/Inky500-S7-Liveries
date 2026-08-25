@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <USER_OVERRIDES>
 
-<LIVERY_OVERRIDE LIVERY="51" NAME="Excelr8 Motorsport #80" BASELIVERY="Default">
-        <PREVIEWIMAGE PATH="BTCC\Bristol80_p.dds" />
-        <TEXTURE NAME="BODY" PATH="BTCC\Bristol80.dds" />
+<LIVERY_OVERRIDE LIVERY="51" NAME="Cosmo" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="Cosmo\2Preview.dds" />
+        <TEXTURE NAME="BODY" PATH="Cosmo\2Livery.dds" />
 </LIVERY_OVERRIDE>
 <LIVERY_OVERRIDE LIVERY="52" NAME="Excelr8 Motorsport #123" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="BTCC\Draper_p.dds" />
