@@ -35,10 +35,8 @@
 		<TEXTURE NAME="FRESNEL" PATH="BTCC\Laser_fresnel.dds" />
 </LIVERY_OVERRIDE>
 <LIVERY_OVERRIDE LIVERY="59" NAME="Inkyshire_Constabulary_50" BASELIVERY="Default">
-<PREVIEWIMAGE PATH="inkyshireconstabulary\preview59.dds"/>
-<TEXTURE NAME="BODY" PATH="inkyshireconstabulary\body59.dds"/>
-<TEXTURE NAME="SPEC" PATH="inkyshireconstabulary\body59_spec.dds"/>
-<TEXTURE NAME="FRESNEL" PATH="inkyshireconstabulary\body59_fresnel.dds"/>
+        <PREVIEWIMAGE PATH="inkyshireconstabulary\preview59.dds"/>
+        <TEXTURE NAME="BODY" PATH="inkyshireconstabulary\body59.dds"/>
 </LIVERY_OVERRIDE>
 <LIVERY_OVERRIDE LIVERY="60" NAME="West Surrey Racing #77" BASELIVERY="Chrome">
         <PREVIEWIMAGE PATH="BTCC\Pirtek_p.dds" />
