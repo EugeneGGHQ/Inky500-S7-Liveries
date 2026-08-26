@@ -5,9 +5,9 @@
         <PREVIEWIMAGE PATH="Cosmo\2Preview.dds" />
         <TEXTURE NAME="BODY" PATH="Cosmo\2Livery.dds" />
 </LIVERY_OVERRIDE>
-<LIVERY_OVERRIDE LIVERY="52" NAME="Excelr8 Motorsport #123" BASELIVERY="Default">
-        <PREVIEWIMAGE PATH="BTCC\Draper_p.dds" />
-        <TEXTURE NAME="BODY" PATH="BTCC\Draper.dds" />
+<LIVERY_OVERRIDE LIVERY="52" NAME="RoyalMail" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="Royalmail\royalmail.dds" />
+        <TEXTURE NAME="BODY" PATH="Royalmail\royalmail.dds" />
 </LIVERY_OVERRIDE>
 <LIVERY_OVERRIDE LIVERY="53" NAME="Motorbase #1" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="BTCC\Napa1_p.dds" />
