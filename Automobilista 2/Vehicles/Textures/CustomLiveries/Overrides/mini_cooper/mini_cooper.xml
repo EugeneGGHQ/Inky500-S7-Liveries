@@ -6,7 +6,7 @@
         <TEXTURE NAME="BODY" PATH="Default\AMS2_Mini_Cooper_2020_template copy.dds" />
 </LIVERY_OVERRIDE>
 <LIVERY_OVERRIDE LIVERY="52" NAME="RoyalMail" BASELIVERY="Default">
-        <PREVIEWIMAGE PATH="Royalmail\royalmail.dds" />
+        <PREVIEWIMAGE PATH="Royalmail\royalmail_p.dds" />
         <TEXTURE NAME="BODY" PATH="Royalmail\royalmail.dds" />
 </LIVERY_OVERRIDE>
 <LIVERY_OVERRIDE LIVERY="53" NAME="Motorbase #1" BASELIVERY="Default">
