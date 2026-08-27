@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <USER_OVERRIDES>
 
-<LIVERY_OVERRIDE LIVERY="51" NAME="Cosmo" BASELIVERY="Default">
-        <PREVIEWIMAGE PATH="Cosmo\2Preview.dds" />
-        <TEXTURE NAME="BODY" PATH="Cosmo\2Livery.dds" />
+<LIVERY_OVERRIDE LIVERY="51" NAME="Default" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="Default\AMS2_Mini_Cooper_2020_template_p.dds" />
+        <TEXTURE NAME="BODY" PATH="Default\AMS2_Mini_Cooper_2020_template copy.dds" />
 </LIVERY_OVERRIDE>
 <LIVERY_OVERRIDE LIVERY="52" NAME="RoyalMail" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="Royalmail\royalmail.dds" />
@@ -89,11 +89,9 @@
         <PREVIEWIMAGE PATH="BTCC\Prodrive11_p.dds" />
         <TEXTURE NAME="BODY" PATH="BTCC\Prodrive11.dds" />
 </LIVERY_OVERRIDE>
-<LIVERY_OVERRIDE LIVERY="72" NAME="Motor Sport Developments #12" BASELIVERY="Chrome">
-        <PREVIEWIMAGE PATH="BTCC\Esso12_p.dds" />
-        <TEXTURE NAME="BODY" PATH="BTCC\Esso12.dds" />
-		<TEXTURE NAME="SPEC" PATH="BTCC\Esso_spec.dds" />
-		<TEXTURE NAME="FRESNEL" PATH="BTCC\Esso_fresnel.dds" />
+<LIVERY_OVERRIDE LIVERY="72" NAME="Cosmo" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="Cosmo\2Preview.dds" />
+        <TEXTURE NAME="BODY" PATH="Cosmo\2Livery.dds" />
 </LIVERY_OVERRIDE>
 <LIVERY_OVERRIDE LIVERY="73" NAME="SmolzieRacing" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="SmolzieRacing\TescoValue21_p.dds" />

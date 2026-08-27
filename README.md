@@ -21,16 +21,16 @@ Current Livery Slot Reservations:
 
 | Occupied | Slot | Occupant | Occupied | Slot | Occupant |
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-[ ]|**51**| | [X] | **63**| Michael
-[ ]|**52**| | [ ] | **64**|  
+[X]|**51**| DEFAULT | [X] | **63**| Michael
+[X]|**52**| Jowell | [ ] | **64**|  
 [ ]|**53**|  | [X] | **65**| Zryux
-[X]|**54**| BigTimeBosco| [ ] | **66**|
+[X]|**54**| BigTimeBosco | [ ] | **66**|
 [X]|**55**| Snicks| [ ] | **67**|
 [ ]|**56**| | [ ] | **68**|
-[ ]|**57**| | [ ] | **69**|
-[X]|**58**| CannonManDan| [X] | **70**| Graeme
+[X]|**57**| MaxRaptor | [ ] | **69**|
+[X]|**58**| CannonManDan | [X] | **70**| Graeme
 [X]|**59**| Diego| [ ] | **71**|
-[ ]|**60**| | [ ] | **72**|
+[ ]|**60**| | [X] | **72**| Cosmo
 [ ]|**61**| | [X] | **73**| Smolzie
 [X]|**62**| InkubusJaymz | [X] | **74**| Eugene_Goat
   
