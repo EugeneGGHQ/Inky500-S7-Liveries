@@ -26,8 +26,8 @@ Current Livery Slot Reservations:
 [ ]|**53**|  | [X] | **65**| Zryux
 [X]|**54**| BigTimeBosco | [ ] | **66**|
 [X]|**55**| Snicks| [ ] | **67**|
-[ ]|**56**| | [ ] | **68**|
-[X]|**57**| MaxRaptor | [ ] | **69**|
+[ ]|**56**| | [X] | **68**| MattTheHuman
+[X]|**57**| MaxRaptor | [X] | **69**| DoAKickFlip
 [X]|**58**| CannonManDan | [X] | **70**| Graeme
 [X]|**59**| Diego| [ ] | **71**|
 [ ]|**60**| | [X] | **72**| Cosmo
