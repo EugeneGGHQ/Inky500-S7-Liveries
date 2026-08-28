@@ -11,7 +11,7 @@
 </LIVERY_OVERRIDE>
 <LIVERY_OVERRIDE LIVERY="53" NAME="Very Sloppy Racing #1" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="sloppyracing\very_sloppy_racing_p.dds" />
-        <TEXTURE NAME="BODY" PATH="sloppyracing\very_sloppy_racing_p" />
+        <TEXTURE NAME="BODY" PATH="sloppyracing\very_sloppy_racing.dds" />
 </LIVERY_OVERRIDE>
 <LIVERY_OVERRIDE LIVERY="54" NAME="Little Tikes" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="Bosco\tikespreview.dds" />
