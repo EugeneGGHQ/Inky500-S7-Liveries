@@ -35,8 +35,8 @@
 		<TEXTURE NAME="FRESNEL" PATH="BTCC\Laser_fresnel.dds" />
 </LIVERY_OVERRIDE>
 <LIVERY_OVERRIDE LIVERY="59" NAME="Inkyshire_Constabulary_50" BASELIVERY="Default">
-        <PREVIEWIMAGE PATH="inkyshireconstabulary\preview59.dds"/>
-        <TEXTURE NAME="BODY" PATH="inkyshireconstabulary\body59.dds"/>
+        <PREVIEWIMAGE PATH="InkyshireConstabulary\preview59.dds"/>
+        <TEXTURE NAME="BODY" PATH="InkyshireConstabulary\body59.dds"/>
 </LIVERY_OVERRIDE>
 <LIVERY_OVERRIDE LIVERY="60" NAME="West Surrey Racing #77" BASELIVERY="Chrome">
         <PREVIEWIMAGE PATH="BTCC\Pirtek_p.dds" />
@@ -73,13 +73,13 @@
         <PREVIEWIMAGE PATH="BTCC\Airwaves7_p.dds" />
         <TEXTURE NAME="BODY" PATH="BTCC\Airwaves7.dds" />
 </LIVERY_OVERRIDE>
-<LIVERY_OVERRIDE LIVERY="68" NAME="888 Race Engineering #7" BASELIVERY="Default">
-        <PREVIEWIMAGE PATH="BTCC\Masterfit7_p.dds" />
-        <TEXTURE NAME="BODY" PATH="BTCC\Masterfit7.dds" />
+<LIVERY_OVERRIDE LIVERY="68" NAME="Squadsetto #1" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="squadsetto\preview_matt.dds" />
+        <TEXTURE NAME="BODY" PATH="squadsetto\squadsetto_matt.dds" />
 </LIVERY_OVERRIDE>
-<LIVERY_OVERRIDE LIVERY="69" NAME="888 Race Engineering #8" BASELIVERY="Default">
-        <PREVIEWIMAGE PATH="BTCC\Masterfit8_p.dds" />
-        <TEXTURE NAME="BODY" PATH="BTCC\Masterfit8.dds" />
+<LIVERY_OVERRIDE LIVERY="69" NAME="Squadsetto #2" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="squadsetto\preview_tudor.dds" />
+        <TEXTURE NAME="BODY" PATH="squadsetto\squadsetto_tudor.dds" />
 </LIVERY_OVERRIDE>
 <LIVERY_OVERRIDE LIVERY="70" NAME="Andy Rouse Engineering #3" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="BTCC\Valvoline3_p.dds" />
@@ -100,7 +100,7 @@
 </LIVERY_OVERRIDE>
 <LIVERY_OVERRIDE LIVERY="74" NAME="goatini" BASELIVERY="Default">
 	  <PREVIEWIMAGE PATH="goatini\goatini_p.dds" />
-	  <TEXTURE NAME="BODY" PATH="goatini\goatini.dds" />
+	  <TEXTURE NAME="BODY" PATH="goatini\GOATINI.dds" />
 	  <TEXTURE NAME="WHEELDIFF" PATH="goatini\goatini_wheel_diff.dds" />
 	  <TEXTURE NAME="WHEELBLURDIFF" PATH="goatini\goatini_wheel_blur_diff.dds" />
 </LIVERY_OVERRIDE>
