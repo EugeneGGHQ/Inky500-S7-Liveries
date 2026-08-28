@@ -9,9 +9,9 @@
         <PREVIEWIMAGE PATH="Royalmail\royalmail_p.dds" />
         <TEXTURE NAME="BODY" PATH="Royalmail\royalmail.dds" />
 </LIVERY_OVERRIDE>
-<LIVERY_OVERRIDE LIVERY="53" NAME="Motorbase #1" BASELIVERY="Default">
-        <PREVIEWIMAGE PATH="BTCC\Napa1_p.dds" />
-        <TEXTURE NAME="BODY" PATH="BTCC\Napa1.dds" />
+<LIVERY_OVERRIDE LIVERY="53" NAME="Very Sloppy Racing #1" BASELIVERY="Default">
+        <PREVIEWIMAGE PATH="sloppyracing\very_sloppy_racing_p.dds" />
+        <TEXTURE NAME="BODY" PATH="sloppyracing\very_sloppy_racing_p" />
 </LIVERY_OVERRIDE>
 <LIVERY_OVERRIDE LIVERY="54" NAME="Little Tikes" BASELIVERY="Default">
         <PREVIEWIMAGE PATH="Bosco\tikespreview.dds" />
